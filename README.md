@@ -1,0 +1,1 @@
+# Photo-PDF-Resizer
